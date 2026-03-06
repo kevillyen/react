@@ -1,0 +1,29 @@
+.navbar{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:25px 80px;
+position:sticky;
+top:0;
+background:#0f172a;
+}
+
+.logo{
+color:#38bdf8;
+}
+
+.navbar ul{
+display:flex;
+gap:30px;
+list-style:none;
+}
+
+.navbar a{
+color:white;
+text-decoration:none;
+transition:0.3s;
+}
+
+.navbar a:hover{
+color:#f472b6;
+}

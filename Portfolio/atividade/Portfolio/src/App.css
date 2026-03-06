@@ -1,0 +1,10 @@
+body{
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(120deg,#0f172a,#1e293b);
+  color:white;
+}
+
+section{
+  padding:100px 80px;
+}

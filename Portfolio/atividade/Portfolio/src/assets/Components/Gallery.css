@@ -1,0 +1,30 @@
+.projects{
+padding:100px 80px;
+text-align:center;
+}
+
+.projects h2{
+font-size:40px;
+color:#38bdf8;
+margin-bottom:50px;
+}
+
+.project-grid{
+display:flex;
+gap:30px;
+justify-content:center;
+flex-wrap:wrap;
+}
+
+.project-card{
+background:#1e293b;
+padding:30px;
+border-radius:10px;
+width:250px;
+transition:0.3s;
+}
+
+.project-card:hover{
+transform:translateY(-10px);
+background:#a855f7;
+}
